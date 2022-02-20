@@ -1,0 +1,125 @@
+body {
+    background: linear-gradient(45deg, #49D49D 10%, #A2C7E5 90%);
+    font-family: 'Raleway', sans-serif; 
+}
+
+
+.header {
+    width: 30%;
+	margin: 50px 400px 0px 400px;
+	text-align: center;
+    color: 	black;
+    font-size: 25px;
+	background: #87CEFA;
+	border: 1px solid #0000FF;
+	border-radius: 10px 10px 0px 0px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+.task-header {
+    width: 40%;
+	margin: 30px 400px 0px 400px;
+	text-align: center;
+    color: 	black;
+    font-size: 25px;
+	background: #87CEFA;
+	border: 1px solid #0000FF;
+	border-radius: 10px 10px 0px 0px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+.form {
+    width: 30%; 
+    height: 18rem;
+    padding: 10px;
+    margin: 0px 400px 400px 400px; 
+    font-size: 18px; 
+	border-radius: 0px 0px 10px 10px; 
+	background: rgb(250, 248, 248);
+	border: 1px solid #0000FF;
+    box-sizing: border-box;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.task-form {
+    width: 40%; 
+    height: 4rem;
+    padding: 10px;
+    margin: 0px 400px 0px 400px; 
+    font-size: 18px; 
+	border-radius: 0px 0px 10px 10px; 
+	background: rgb(250, 248, 248);
+	border: 1px solid #0000FF;
+    box-sizing: border-box;
+}
+
+.login-form {
+    width: 30%; 
+    height: 11rem;
+    padding: 10px;
+    margin: 0px 400px 400px 400px; 
+    font-size: 18px; 
+	border-radius: 0px 0px 10px 10px; 
+	background: rgb(250, 248, 248);
+	border: 1px solid #0000FF;
+    box-sizing: border-box;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.form-group {
+    font-size: 18px;
+    padding: 5px;
+}
+
+.input {
+    /* margin: 5px; */
+    width: 98%;
+
+}
+
+.task-input {
+    width: 98%;
+}
+
+table {
+    margin: 0px 400px 400px 400px;
+    width: 40%;
+}
+
+th {
+    text-align: center;
+    border-bottom: 2px solid #0000FF;
+}
+
+tr {
+    text-align: center;
+}
+
+a {
+    padding-right: 10px;
+}
+.logout{
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+input[type="submit"]{
+    background-color: #A9A9A9;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+    font-family: 'Raleway', sans-serif; 
+  }
+
+  .h4 {
+      text-align: center;
+  }
+
+ 
