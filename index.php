@@ -41,7 +41,7 @@ include 'backend/login_auth.php';
   </style>
     </header>
     
-    <form class="form" action="login.php" method="post">
+    <form class="form" action="index.php" method="post">
         <div class="form__group">
             <input type="text" name="username" placeholder="Username" class="form__input" />
         </div>
