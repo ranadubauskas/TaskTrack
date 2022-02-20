@@ -18,6 +18,7 @@ This is a full-stack application that takes in user data to store tasks and disp
 - Add tasks
 - Edit Tasks
 - Delete Tasks
+- Checkmark to Update Task Status
 - Login/Register
 - Logout
 - Saves Tasks Based on Username
